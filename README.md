@@ -4,7 +4,6 @@
 
 ini merupakan tugas yang saya kerjakan untuk memenuhi persyaratan kelulusan kelas analis data dengan python
 
-# Dicoding Collection Dashboard ✨
 
 ## Setup Environment - Anaconda
 
