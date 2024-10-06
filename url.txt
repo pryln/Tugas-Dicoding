@@ -1,1 +1,1 @@
-https://tugas-dicoding-dashboard.streamlit.app/
+https://tugas-dicoding-bike.streamlit.app/
