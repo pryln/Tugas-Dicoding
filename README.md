@@ -2,7 +2,7 @@
 
 ## Deskripsi
 
-ini merupakan tugas yang saya kerjakan untuk memenuhi persyaratan kelulusan kelas analis data dengan python
+Ini merupakan tugas yang saya kerjakan untuk memenuhi persyaratan kelulusan kelas analis data dengan python
 
 
 ## Setup Environment - Anaconda
