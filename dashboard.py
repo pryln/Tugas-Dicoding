@@ -5,7 +5,7 @@ import seaborn as sns
 
 
 # Load data set
-df = pd.read_csv('./day.csv')
+df = pd.read_csv('day.csv')
 
 st.title('Bike Rental Dashboard')
 
