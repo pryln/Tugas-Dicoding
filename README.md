@@ -2,7 +2,7 @@
 
 ## Deskripsi
 
-Ini merupakan tugas yang saya kerjakan untuk memenuhi persyaratan kelulusan kelas analis data dengan python
+Ini merupakan tugas yang saya kerjakan untuk memenuhi persyaratan kelulusan kelas analis data dengan python dengan menggunakan dataset bike rentals
 
 
 ## Setup Environment - Anaconda
@@ -16,8 +16,8 @@ pip install -r requirements.txt
 ## Setup Environment - Shell/Terminal
 
 ```
-mkdir "C:\tugas dicoding"
-cd "C:\tugas dicoding"
+mkdir tugas_dicoding
+cd tugas_dicoding
 
 #note: folder sudah dibuat manual sebelumnya
 
